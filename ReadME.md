@@ -1,0 +1,1 @@
+Here's where I learn parts of general CS except district studies on specific programming languages or tools.
