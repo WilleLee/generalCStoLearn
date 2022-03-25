@@ -19,5 +19,13 @@ opentutorials.org - host(domain), 인터넷에 연결된 특정 컴퓨터의 주
 main - path (그 컴퓨터 안에 있는 어떤 디렉토리의 어떤 파일인지를 가리킴)
 id=HTML&page=12 - query string ... 해당 값을 변경하면 앞에 있는 web server에게 특정 정보를 보낼 수 있음 (what cleints want)
 
+class 파일 읽기
 
+정보를 다루는 핵심적 방법 4가지
+C create
+R read
+U update
+D delete
+
+이번 시간... file을 어떻게 하면 node.js읽나?
 
