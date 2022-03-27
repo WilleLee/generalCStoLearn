@@ -8,9 +8,10 @@ developer로서 꼭 알아야 할 6가지 알고리듬들을 소개함
 - bubble sort : 인접한 두 elements를 연속적으로 정렬시킨다. (1번째 element와 2번째 element를 비교 -> 2번째와 3번째를 비교 -> ... -> n-1번째와 n번째 비교, 2번째부터 n-1까지 반복, ... 최대 n(n-1)/2번 정렬)
 - merge sort : 입력값을 더 이상 쪼갤 수 없을 때까지 분할한 후, 다시 그 역순으로 병합해 가며 정렬시킨다. (divide and conquer strategy)
 - quick sort : 원소 하나를 기준(피벗, pivot)으로 삼아 그보다 작은 것을 앞으로 빼내고 그 뒤에 피벗을 옮겨 피벗보다 작은 것, 큰 것으로 나눈뒤 나누어진 각각에서 다시 피벗을 잡고 정렬해서 각각의 크기가 0이나 1이 될 때까지 정렬한다.
-- heap sort : elements를 힙 트리(완전이진트리)에 삽입한 후 최솟값 또는 최댓값의 제거를 반복한다.ㄹㄹ
+- heap sort : elements를 힙 트리(완전이진트리)에 삽입한 후 최솟값 또는 최댓값의 제거를 반복한다.
 
 2. searching algorithms (탐색 알고리듬)
+: 하나의 데이터 셋에서 하나의 element를 찾아내는 알고리듬
 
 - binary search
 - breadth-first search (BFS)
