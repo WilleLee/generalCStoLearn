@@ -29,3 +29,11 @@ D delete
 
 이번 시간... file을 어떻게 하면 node.js읽나?
 
+### 동기와 비동기 (synchronous vs. asynchronous)
+비동기적 처리 : 같은 시점에 여러 일을 동시에 처리!
+효율적이지만 복잡해요 -> node.js가 까다로울 수 있는 이유
+
+Package Manager : 소프트웨어 관리 프로그램
+-> NPM
+
+PM2 파일의 수정 관찰, 자동 반영
